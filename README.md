@@ -4,7 +4,7 @@ Deep Learning Project 1
 
 Download image dataset from https://www.kaggle.com/moltean/fruits
 
-Classifying different fruits: Apples, Cherries, Grapes, Pears and Tomatoes
+Classifying different fruits: Apples, Bananas, Cherries, Grapes, Onions, Peaches, Pears, Peppers, Plums, Potatoes and Tomatoes
 
 ------- Train -------
 Apples : 6404
