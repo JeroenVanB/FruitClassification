@@ -6,16 +6,28 @@ Download image dataset from https://www.kaggle.com/moltean/fruits
 
 Classifying different fruits: Apples, Cherries, Grapes, Pears and Tomatoes
 
-Train set:
-6418 apples
-3451 cherries
-4410 grapes NOTE: NOT CORRECT ANYLONGER. REMOVED "GRAPEFRUITS"
-5047 pears
-5113 tomatoes
+------- Train -------
+Apples : 6404
+Bananas : 1430
+Cherries : 3444
+Grapes : 3419
+Onions : 1333
+Peaches : 1722
+Pears : 5037
+Peppers : 2478
+Plums : 1767
+Potatoes : 1803
+Tomatoes : 5103
 
-Test set:
-2148 apples
-1155 cherries
-1485 grapes NOTE: NOT CORRECT ANYLONGER. REMOVED "GRAPEFRUITS"
-1699 pears
-1717 totmatoes
+------- Test -------
+Apples : 2137
+Bananas : 484
+Cherries : 1148
+Grapes : 1146
+Onions : 451
+Peaches : 574
+Pears : 1689
+Peppers : 826
+Plums : 597
+Potatoes : 601
+Tomatoes : 1707
